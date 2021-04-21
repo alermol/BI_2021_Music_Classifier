@@ -1,4 +1,4 @@
-# Music genre classifier
+# Music Сlassifier (MusiCl)
 
 ## Description
 
