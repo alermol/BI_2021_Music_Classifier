@@ -16,6 +16,19 @@ genres:
 * Classical music
 * Electro
 
+## Usage
+
+```bash
+usage: musicl.py [-h] [-v] path
+
+positional arguments:
+  path           path to song
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --version  show version
+```
+
 ## Requirements
 
 * librosa==0.8.0
