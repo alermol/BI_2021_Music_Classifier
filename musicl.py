@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import argparse
 import warnings
 from pathlib import Path
@@ -15,7 +18,7 @@ warnings.filterwarnings('ignore')
 
 parser = argparse.ArgumentParser(
     description=(
-        'Script to classify music\n\n'
+        'Script for genres Music Classification (MusiCl)\n\n'
         'Reconizible genres: Country music, Pop music, Hip hop music, '
         'Rock music, Metal, Classical music, Electro'
     ),
