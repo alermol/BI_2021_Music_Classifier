@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+music_classifier
+.vscode/launch.json
+sample.mp3
