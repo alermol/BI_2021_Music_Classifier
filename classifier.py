@@ -29,7 +29,7 @@ parser.add_argument('-v', '--version',
                     help='show version',
                     action='version',
                     version=f'Current version is {config.VERSION}')
-parser.add_argument('i',
+parser.add_argument('path',
                     help='path to song',
                     metavar='path',
                     type=str)
