@@ -18,7 +18,7 @@ genres:
 
 ## Usage
 
-```bash
+```None
 usage: musicl.py [-h] [-v] path
 
 positional arguments:
