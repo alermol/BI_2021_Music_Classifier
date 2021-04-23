@@ -3,14 +3,14 @@
 ## Description
 
 Script for music classification made as a part of a Python project in
-the Bioinformatics Institute in 2021
+the Bioinformatics Institute in 2021.
 
-The script based on Random Forest Classificator and able to recognize following
+The script based on Random Forest Classificator and is able to recognize following
 genres:
 
 * Country music
 * Pop music
-* Hip hop music
+* Hip-hop music
 * Rock music
 * Metal
 * Classical music
